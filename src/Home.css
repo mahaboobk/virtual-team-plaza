@@ -1,0 +1,100 @@
+/* src/Home.css */
+.home {
+    text-align: center;
+    background-color: #370059; /* Add background color */
+    min-height: 100vh; /* Ensure it covers the full viewport height */
+    color: white; /* Change text color to white for better contrast */
+  }
+
+.home h1 {
+    font-size: 2.5em;
+    background: linear-gradient(to right, #A400CD, #E1D8E6);
+    -webkit-background-clip: text;
+    color: transparent;
+    margin-top: 20px;
+}
+  
+  .home-header {
+    display: flex;
+    align-items: center;
+    justify-content: left; /* Center items horizontally */
+    padding: 10px;
+    background-color: #f8f8f8;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .logo {
+    height: 50px; /* Adjust the height as needed */
+    margin-right: 10px; /* Add margin to separate logo from h1 */
+  }
+  
+  .home-title {
+    margin: 0; /* Remove default margin */
+  }
+  
+  .cards {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin-top: 20px;
+  }
+  
+  .card {
+    height: 350px; /* Set height of card */
+    width: 250px; /* Set width of card */
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    text-decoration: none;
+    color: white; /* Ensure card text is white for better contrast with backgrounds */
+    transition: transform 0.2s;
+    background-size: cover; /* Ensure the background image covers the card */
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+  }
+  .card-header {
+    /* background-color: rgba(0, 0, 0, 0.5); Add background color for header */
+    padding: 10px;
+    text-align: center;
+    text-color: #A400CD;
+    flex-grow: 1; /* Allow the header to grow to take up space */
+  }
+  .card h2 {
+    margin-top: 0;
+    background: linear-gradient(to right, #A400CD, #E1D8E6);
+    border-radius: 5px;
+  }
+  
+  .card p {
+    margin-bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5); /* Add background color for better readability */
+    padding: 5px;
+    border-radius: 5px;
+  }
+  
+  .subheading {
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: #E1D8E6; /* Update subheading color for better contrast */
+  }
+  .find-out-more {
+    margin-top: auto; /* Align button to the bottom of the card */
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+  }

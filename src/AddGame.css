@@ -1,0 +1,11 @@
+/* src/AddGame.css */
+.add-game {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .add-game h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
