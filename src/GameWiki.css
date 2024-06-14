@@ -1,0 +1,56 @@
+/* src/GameWiki.css */
+.game-wiki {
+  text-align: left;
+  background-color: #f0f0f0; /* Light background color */
+  color: #000;
+  padding: 20px;
+}
+
+.game-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.game-post {
+  background-color: #fff; /* White background for the accordion */
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  width: 100%;
+  max-width: 800px;
+  margin: 10px 0;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.game-name {
+  text-align: left;
+  color: #370059; /* Custom color */
+}
+
+.game-section {
+  margin-top: 20px;
+}
+
+.game-section h6 {
+  color: #370059; /* Custom color */
+  margin-bottom: 10px;
+}
+
+.game-section p {
+  margin: 0;
+  padding: 10px;
+  background-color: rgba(0, 0, 0, 0.05);
+  border-radius: 5px;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .game-wiki {
+    padding: 10px;
+  }
+
+  .game-post {
+    width: 90%;
+  }
+}

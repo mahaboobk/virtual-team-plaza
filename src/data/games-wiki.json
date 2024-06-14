@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "name": "Would You Rather",
+      "setup": "Players take turns asking each other 'Would you rather' questions, presenting two options. ",
+      "gameplay": "Each player must choose one of the options presented and explain their choice to the group.",
+      "winning": "There's no strict winning condition, as the game is more about sharing opinions and getting to know each other. Players can simply enjoy the discussion and learn more about their teammates' preferences."
+    },
+    {
+        "id": 2,
+        "name": "Would You Rather 2",
+        "setup": "Players take turns asking each other 'Would you rather' questions, presenting two options. ",
+        "gameplay": "Each player must choose one of the options presented and explain their choice to the group.",
+        "winning": "There's no strict winning condition, as the game is more about sharing opinions and getting to know each other. Players can simply enjoy the discussion and learn more about their teammates' preferences."
+      }
+  ]
+  

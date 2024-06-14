@@ -1,0 +1,56 @@
+[
+    {
+      "gameName": "Scribble",
+      "gameLink": "https://skribbl.io/",
+      "gameDescription": "Skribbl.io is a free multiplayer drawing and guessing game where players take turns drawing a word while others try to guess what it is. It's a fun and creative game that encourages communication and teamwork.",
+      "imageURL": "https://skribbl.io/img/logo.gif"
+    },
+    {
+      "gameName": "Bingo",
+      "gameLink": "https://www.bingoblitz.com/",
+      "gameDescription": "Bingo is a popular game of chance where players mark off numbers on a card as they are randomly called out. These online versions of Bingo offer various themes, patterns, and rooms for players to enjoy with friends or coworkers.",
+      "imageURL": "https://www.bingoblitz.com/wp-content/uploads/2023/06/logo.png"
+    },
+    {
+      "gameName": "MojiParty",
+      "gameLink": "https://www.mojiparty.io/",
+      "gameDescription": "Mojiparty is an engaging multiplayer online game where players compete to guess words or phrases based on emoji clues. With its fun and fast-paced gameplay, Mojiparty challenges your creativity and quick thinking as you decipher the emoji puzzles to claim victory against friends or strangers from around the world",
+      "imageURL": "https://www.mojiparty.io/mojiparty-title-basic.png"
+    },
+    {
+      "gameName": "Scattergories",
+      "gameLink": "https://scattergoriesonline.net/",
+      "gameDescription": "Scattergories is a web-based version of the classic party game where players try to come up with unique words that fit specific categories within a time limit. It's a fun and fast-paced game that challenges players' creativity.",
+      "imageURL": "https://play-lh.googleusercontent.com/fdg7CSbIxPIFbL9SHfgJpmZgVHXtPZFhidOCvHwIJYzzHJc19xY93FXQzW6wdwGyLpc"
+    },
+    {
+      "gameName": "Codenames Online",
+      "gameLink": "https://codenames.game/",
+      "gameDescription": "Codenames is a word-based party game where players work in teams to identify their team's agents based on one-word clues given by their spymaster. It's a game of deduction and communication that requires teamwork and strategic thinking",
+      "imageURL": "https://cdn2.codenames.game/cno/2023-12-19/homepage/logo.png"
+    },
+    {
+      "gameName": "Spyfall Online",
+      "gameLink": "https://www.spyfall.app/",
+      "gameDescription": "Spyfall is a social deduction game where players are given roles as either a spy or a regular person in a specific location. The goal is for the non-spies to identify the spy, while the spy tries to blend in and figure out the location. Teammates must ask strategic questions to uncover the spy's identity. ",
+      "imageURL": "https://play-lh.googleusercontent.com/PRVGIOTi9lpz08kKs_EDRNexPee3FUjhyElqfe2HS3Wr5iJCsRb8Bs365AAROxHIHV8=w600-h300-pc0xffffff-pd"
+    },
+    {
+      "gameName": "Drawize",
+      "gameLink": "https://www.drawize.com/",
+      "gameDescription": "Drawize is an online drawing and guessing game where players take turns drawing a given word while others try to guess it. It's similar to Skribbl.io but offers additional features and drawing tools. ",
+      "imageURL": "https://www.drawize.com/Content/Images/blog/drawize_logo_big_blue_bg.jpg"
+    },
+    {
+      "gameName": "Fishbowl",
+      "gameLink": "https://fishbowl-game.com/",
+      "gameDescription": "Fishbowl is a virtual version of the classic party game where players write phrases or words on slips of paper, which are then guessed by teammates in three rounds: Taboo-style clues, charades, and one-word hints.",
+      "imageURL": "https://cf.geekdo-images.com/KPeRLKbDWtY8JbikXqb0kw__opengraph/img/6yeyG0bcF10Mba_3podUuqJM6Ss=/0x0:1180x620/fit-in/1200x630/filters:strip_icc()/pic496303.jpg"
+    },
+    {
+      "gameName": "Gartic",
+      "gameLink": "https://gartic.io/",
+      "gameDescription": "Gartic.io is an online drawing and guessing game similar to Skribbl.io and Drawize. Players take turns drawing a word while others try to guess it, earning points for correct guesses and accurate drawings.  ",
+      "imageURL": "https://play-lh.googleusercontent.com/yAKnGbdCEGAzJwRQ5b3z7ht1oVg6isQAIvwHRjyNh-QaPiCTHVaW5ajns__ApC3j0iw"
+    }
+  ]
