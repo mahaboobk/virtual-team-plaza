@@ -7,7 +7,7 @@
   }
 
 .home h1 {
-    font-size: 2.5em;
+    font-size: 3.5em;
     background: linear-gradient(to right, #A400CD, #E1D8E6);
     -webkit-background-clip: text;
     color: transparent;
@@ -41,8 +41,8 @@
   }
   
   .card {
-    height: 350px; /* Set height of card */
-    width: 250px; /* Set width of card */
+    height: 300px; /* Set height of card */
+    width: 280px; /* Set width of card */
     border: 1px solid #ccc;
     border-radius: 10px;
     padding: 20px;
@@ -62,6 +62,7 @@
   }
   .card-header {
     /* background-color: rgba(0, 0, 0, 0.5); Add background color for header */
+    font-size: 1em;
     padding: 10px;
     text-align: center;
     text-color: #A400CD;
@@ -78,6 +79,7 @@
     background-color: rgba(0, 0, 0, 0.5); /* Add background color for better readability */
     padding: 5px;
     border-radius: 5px;
+    font-size: 1.2em;
   }
   
   .subheading {
