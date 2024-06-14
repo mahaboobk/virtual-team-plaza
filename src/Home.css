@@ -7,7 +7,7 @@
   }
 
 .home h1 {
-    font-size: 3.5em;
+    font-size: 3.0em;
     background: linear-gradient(to right, #A400CD, #E1D8E6);
     -webkit-background-clip: text;
     color: transparent;
@@ -41,8 +41,8 @@
   }
   
   .card {
-    height: 300px; /* Set height of card */
-    width: 280px; /* Set width of card */
+    height: 260px; /* Set height of card */
+    width: 250px; /* Set width of card */
     border: 1px solid #ccc;
     border-radius: 10px;
     padding: 20px;
@@ -83,7 +83,7 @@
   }
   
   .subheading {
-    font-size: 1.2em;
+    font-size: 1.1em;
     margin: 10px 0;
     color: #E1D8E6; /* Update subheading color for better contrast */
   }
